@@ -2,5 +2,25 @@
   "version": "1.1",
   "valide": true,
   "expire": "2027-05-14",
-  "motif": ""
+  "historique": [
+    {
+      "version": "1.1",
+      "date": "2026-06-04",
+      "titre": "Mise à jour conformité",
+      "modifications": [
+        "Ajout des mentions légales",
+        "Mise en conformité RGPD",
+        "Ajout d'un système de certificat de suppression des données clients"
+      ]
+    },
+    {
+      "version": "1.0",
+      "date": "2026-05-20",
+      "titre": "Version initiale",
+      "modifications": [
+        "Création du site web",
+        "Mise en ligne et mise en route du service"
+      ]
+    }
+  ]
 }
