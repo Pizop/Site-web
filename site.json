@@ -2,7 +2,8 @@
   "version": "1.1",
   "valide": true,
   "expire": "2027-05-14",
-  "historique": [
+  "motif": "",
+  "changelog": [
     {
       "version": "1.1",
       "date": "2026-06-04",
