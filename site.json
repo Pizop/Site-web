@@ -1,9 +1,22 @@
 {
-  "version": "1.1",
+  "version": "1.2",
   "valide": true,
   "expire": "2027-05-14",
   "motif": "",
   "changelog": [
+    {
+      "version": "1.2",
+      "date": "2026-07-19",
+      "titre": "Amélioration pour les téléphones, gestion des réservations et demandes de retrait de photos",
+      "modifications": [
+        "Adaptation complète de l'espace d'administration pour qu'il soit facile à utiliser sur les téléphones portables.",
+        "Ajout de petites icônes (images illustrées) devant chaque option du menu pour mieux s'y retrouver.",
+        "Ajout d'un bouton pour fermer les réservations de table quand le restaurant est complet, affichant à la place un message qui invite à appeler.",
+        "Ajout d'un formulaire en bas de page pour que les clients puissent demander poliment le retrait d'une photo d'eux.",
+        "Séparation des animations passées et à venir, avec un affichage sous forme de cartes plus moderne sur mobile.",
+        "Rangement des photos de la galerie dans deux dossiers distincts (le restaurant ou les soirées) au lieu de tout mélanger."
+      ]
+    },
     {
       "version": "1.1",
       "date": "2026-06-04",
